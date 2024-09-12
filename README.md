@@ -1,13 +1,13 @@
 # Credit Card Fraud Detection Model
-This project is focused on detecting fraudulent credit card transactions using machine learning models. The dataset contains anonymized features and the goal is to classify whether a transaction is legitimate (Class 0) or fraudulent (Class 1).
+This project is focused on detecting fraudulent credit card transactions using machine learning models. The dataset contains anonymized features and aims to classify whether a transaction is legitimate (Class 0) or dishonest (Class 1).
 
 
 **Introduction**
-Credit card fraud is a major concern for financial institutions and cardholders. In this project I built a predictive model to classify transactions as either fraudulent or legitimate using various machine learning techniques, with the goal of improving accuracy and detecting fraudulent transactions effectively.
+Credit card fraud is a major concern for financial institutions and cardholders. In this project I built a predictive model to classify transactions as either fraudulent or legitimate using various machine-learning techniques, to improve accuracy and detect fraudulent transactions effectively.
 
 
 **Dataset**
-The dataset used is highly imbalanced, with only a small fraction of the transactions being fraudulent. The features have been anonymized for privacy reasons.
+The dataset is highly imbalanced, with only a small fraction of the transactions being fraudulent. The features have been anonymized for privacy reasons.
 
  Key columns include:
 
